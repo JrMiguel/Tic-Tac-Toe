@@ -1,5 +1,5 @@
 
-(function() {
+(function ticTacToe() {
     var start = document.getElementById('startGame'); 
     var play = document.getElementById('board'); 
     var startButton = document.getElementById('start');
